@@ -3,8 +3,8 @@
 <html>
 
 <body>
-  <h1>YOUR NAME</h1>
-  <p>Welcome to my website!</p>
+  <h1>Edward</h1>
+  <p>Codeacademy Tutorial!</p>
   <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 </body>
 
